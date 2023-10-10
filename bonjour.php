@@ -10,7 +10,7 @@
             <title>Connexion</title>
         </head>
         <body>
-        
+        test
         <div class="login-form">
              <?php 
              error_reporting(E_ALL);
